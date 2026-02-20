@@ -1,0 +1,11 @@
+id_venta,fecha,ciudad,canal,producto,unidades,precio_unitario,cliente
+1,2026-02-01, Bogotá ,Online,Mouse,2,$ 35.000,ACME S.A.
+2,01/02/2026,Medellín,TIENDA,Teclado,1,$ 55.000,Globex
+3,2026-02-03,Cali,online,Monitor,1,$ 750.000,Initech
+4,2026-02-03,Cali,online,Monitor,1,$ 750.000,Initech
+5,2026-02-04,Bogota,Distribuidor,Mouse,3,$35.000,ACME S.A.
+6,2026-02-05,Medellin,Online,Mouse,, $ 35.000 ,Umbrella Corp
+7,2026-02-06,Barranquilla,tienda,Teclado,2,$55.000,Globex
+8,2026-02-07,Bogotá,Online,Headset,1,120000,Stark Industries
+9,07-02-2026,Bogotá,Online,Headset,1,120.000,Stark Industries
+10,2026-02-08,,Distribuidor,Mouse,1,$ 35.000,ACME S.A.
