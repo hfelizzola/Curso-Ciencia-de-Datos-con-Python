@@ -23,13 +23,12 @@ Curso práctico basado en **aprendizaje basado en proyectos (ABP)**:
 ## 🗂️ Estructura del repositorio
 ```
 ├── 1_fundamentos_python/
-├── 2_numpy_pandas/
-├── 3_limpieza_datos/
-├── 4_visualizacion/
-├── 5_eda/
-├── 6_machine_learning/
-├── 7_streamlit/
-├── 8_proyectos/
+├── 2_numpy_pandas_limpieza_datos/
+├── 3_visualizacion/
+├── 4_eda/
+├── 5_machine_learning/
+├── 6_streamlit/
+├── 7_proyectos/
 │ ├── proyecto_1/
 │ ├── proyecto_2/
 │ └── proyecto_final/
