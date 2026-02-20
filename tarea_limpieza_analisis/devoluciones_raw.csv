@@ -1,0 +1,339 @@
+id_devolucion,id_venta,fecha_devolucion,motivo,monto_reintegrado,metodo_reembolso
+1,578,2025-06-18, Cambio de opinión ,$ 167.314,PSE
+2,424,2025-06-06,NO ERA LO ESPERADO,$ 942.612,efectivo
+3,2144,2025-02-05,ERROR ENVIO,$ 2.006.245,TC
+4,774,2025-01-24,Error en envío,587835,PSE
+5,2235,2025-11-06, Error en envío ,837855,TC
+6,589,2025-05-21, Error en envío ,284921,efectivo
+7,1103,2025-10-10,Daño en transporte,1793907,efectivo
+8,79,2025-09-12,ERROR ENVIO,1811613,TC
+9,2201,2025-04-18,Error en envío,$ 2.095.626,transferencia
+10,1173,2025-07-18,Producto defectuoso,$ 1.697.242,efectivo
+11,448,2025-01-28,Error en envío,906077,efectivo
+12,2060,2025-06-14,Cambio de opinión,1564978,transferencia
+13,70,2025-04-10, Daño en transporte ,,efectivo
+14,871,2025-12-24,Daño en transporte,334645,PSE
+15,2114,2025-01-24,Daño en transporte,,TC
+16,969,2025-07-13,no era lo esperado,$ 739.829,PSE
+17,2258,2025-03-28,Cambio de opinión,1319660,efectivo
+18,25,2025-08-19,NO ERA LO ESPERADO,535835,TC
+19,854,2025-05-10,NO ERA LO ESPERADO,$ 200.523,TC
+20,2270,2025-09-24,No era lo esperado,264553,TC
+21,984,2025-02-23,,948983,efectivo
+22,256,2025-04-15,Error en envío,$ 54.874,efectivo
+23,524,2025-05-26,Producto defectuoso,193801,TC
+24,939,2025-07-03,daño transporte,,TC
+25,2178,2025-12-29, Producto defectuoso ,$ 1.020.012,PSE
+26,825,2025-09-15,,1990155,TC
+27,2024,2025-07-12,CAMBIO OPINION,2376931,efectivo
+28,2058,2025-08-07,No era lo esperado,,PSE
+29,560,2025-01-23,Cambio de opinión,$ 1.457.283,PSE
+30,946,2025-04-06,CAMBIO OPINION,1192710,efectivo
+31,465,2025-02-09,error envio,357017,efectivo
+32,718,2025-07-07,Error en envío,192320,TC
+33,544,2025-07-25,Cambio de opinión,,TC
+34,2033,2025-02-20,Cambio de opinión,,transferencia
+35,877,2025-07-12,Producto defectuoso,$ 2.482.730,PSE
+36,435,2025-02-05, Daño en transporte ,$ 2.070.364,efectivo
+37,420,2025-01-23,Cambio de opinión,$ 285.332,PSE
+38,1191,2025-05-24, No era lo esperado ,355499,transferencia
+39,582,2025-11-14,Daño en transporte,$ 1.060.146,PSE
+40,953,2025-03-02,Cambio de opinión,1980618,efectivo
+41,2144,2025-11-03,,$ 999.388,efectivo
+42,2271,2025-01-09, Error en envío ,$ 2.093.531,transferencia
+43,115,2025-03-27,producto defectuoso,$ 935.456,efectivo
+44,303,2025-12-26,Daño en transporte,$ 276.658,transferencia
+45,829,2025-09-27,daño transporte,1593927,transferencia
+46,868,2025-04-24,Cambio de opinión,1699843,transferencia
+47,775,2025-06-18,ERROR ENVIO,907311,TC
+48,373,2025-11-05,Error en envío,947568,transferencia
+49,235,2025-10-30,NO ERA LO ESPERADO,913724,PSE
+50,120,2025-12-02,No era lo esperado,$ 408.484,transferencia
+51,623,2025-12-02,cambio opinion,$ 1.771.908,transferencia
+52,830,2025-12-25,Producto defectuoso,2062154,efectivo
+53,298,2025-06-21,daño transporte,$ 1.905.506,efectivo
+54,960,2025-09-07,producto defectuoso,$ 1.520.136,PSE
+55,485,2025-03-13,NO ERA LO ESPERADO,348498,PSE
+56,2242,2025-12-15,producto defectuoso,1188498,efectivo
+57,85,2025-04-17,cambio opinion,1356358,PSE
+58,1077,2025-05-21,ERROR ENVIO,2292122,transferencia
+59,304,2025-08-06, Cambio de opinión ,$ 1.812.475,transferencia
+60,2027,2025-10-11,Cambio de opinión,2092896,transferencia
+61,1039,2025-04-19,DEFECTUOSO,$ 878.829,transferencia
+62,811,2025-07-02,Daño en transporte,,efectivo
+63,300,2025-08-15,Error en envío,$ 140.509,PSE
+64,300,2025-09-01,ERROR ENVIO,2333536,efectivo
+65,1096,2025-08-28,cambio opinion,$ 813.264,PSE
+66,949,2025-12-06,Error en envío,1000720,PSE
+67,1073,2025-05-14,no era lo esperado,1010859,TC
+68,2174,2025-06-12,ERROR ENVIO,$ 1.819.372,PSE
+69,671,2025-01-09,error envio,$ 1.024.429,TC
+70,1037,2025-06-05, No era lo esperado ,$ 1.453.444,PSE
+71,977,2025-07-31,,$ 366.400,efectivo
+72,206,2025-01-18, Cambio de opinión ,1633133,TC
+73,1045,2025-11-09,Producto defectuoso,,PSE
+74,576,2025-10-10,cambio opinion,2482242,transferencia
+75,153,2025-06-17,Producto defectuoso,$ 1.015.071,transferencia
+76,262,2025-09-14,Cambio de opinión,$ 2.011.762,TC
+77,2070,2025-12-27,Producto defectuoso,$ 1.514.426,PSE
+78,562,2025-01-19,Cambio de opinión,1266132,transferencia
+79,870,2025-09-12,No era lo esperado,$ 465.890,transferencia
+80,1174,2025-11-27,Producto defectuoso,,PSE
+81,2232,2025-07-06,cambio opinion,,transferencia
+82,2291,2025-01-09,Cambio de opinión,2444648,PSE
+83,243,2025-11-04,Error en envío,879422,efectivo
+84,945,2025-03-18,CAMBIO OPINION,324679,transferencia
+85,12,2025-09-05,DEFECTUOSO,$ 2.327.788,TC
+86,424,2025-06-11,Daño en transporte,$ 657.522,efectivo
+87,40,2025-10-12, Cambio de opinión ,2281448,transferencia
+88,270,2025-10-03,Producto defectuoso,972020,PSE
+89,1040,2025-05-19,Producto defectuoso,,efectivo
+90,94,2025-10-19,cambio opinion,728958,efectivo
+91,550,2025-11-13, Producto defectuoso ,1786830,TC
+92,526,2025-05-15,cambio opinion,$ 1.726.023,transferencia
+93,179,2025-03-02,Daño en transporte,$ 1.546.084,TC
+94,923,2025-12-25,NO ERA LO ESPERADO,2426829,PSE
+95,631,2025-07-20,NO ERA LO ESPERADO,101605,transferencia
+96,860,2025-07-02, Producto defectuoso ,$ 198.269,transferencia
+97,773,2025-04-21,CAMBIO OPINION,$ 1.880.527,efectivo
+98,2027,2025-09-04,No era lo esperado,20564,PSE
+99,620,2025-01-13, No era lo esperado ,808496,efectivo
+100,515,2025-02-19,daño transporte,$ 1.035.860,PSE
+101,12,2025-03-07,Daño en transporte,1612233,transferencia
+102,359,2025-11-26,Cambio de opinión,$ 1.264.973,PSE
+103,381,2025-09-15,Error en envío,1118266,transferencia
+104,544,2025-03-15,Daño en transporte,2182621,efectivo
+105,1168,2025-07-10, No era lo esperado ,$ 634.357,TC
+106,363,2025-12-16,Cambio de opinión,859221,efectivo
+107,812,2025-12-24,ERROR ENVIO,$ 773.843,PSE
+108,763,2025-07-18, Producto defectuoso ,749427,efectivo
+109,463,2025-07-17,cambio opinion,2047212,TC
+110,2248,2025-03-24,no era lo esperado,2103929,transferencia
+111,898,2025-10-02,cambio opinion,$ 599.522,transferencia
+112,851,2025-10-08,Daño en transporte,$ 1.572.772,efectivo
+113,890,2025-11-07, Daño en transporte ,$ 508.549,efectivo
+114,765,2025-12-08,ERROR ENVIO,$ 2.171.259,efectivo
+115,267,2025-04-10,No era lo esperado,1146181,transferencia
+116,151,2025-02-20, Error en envío ,1174048,efectivo
+117,2224,2025-07-01,CAMBIO OPINION,1480555,efectivo
+118,44,2025-05-12, No era lo esperado ,$ 2.283.327,TC
+119,372,2025-01-29, Error en envío ,1856224,PSE
+120,144,2025-08-25,ERROR ENVIO,1790838,PSE
+121,61,2025-01-14, Cambio de opinión ,1278834,PSE
+122,1044,2025-06-07,DAÑO TRANSPORTE,1314844,transferencia
+123,121,2025-10-09,DAÑO TRANSPORTE,1425536,TC
+124,2257,2025-08-22,Daño en transporte,2374362,transferencia
+125,752,2025-05-15,Error en envío,492634,PSE
+126,2016,2025-04-09, Cambio de opinión ,1781641,transferencia
+127,2071,2025-03-22, No era lo esperado ,$ 457.800,transferencia
+128,614,2025-06-30, Error en envío ,$ 594.624,efectivo
+129,651,2025-04-04, Producto defectuoso ,$ 1.334.325,efectivo
+130,85,2025-12-18,,247761,TC
+131,1078,2025-07-31, Daño en transporte ,$ 502.374,TC
+132,668,2025-10-23,cambio opinion,691743,transferencia
+133,3,2025-05-16,ERROR ENVIO,62158,PSE
+134,690,2025-05-21,No era lo esperado,1087721,PSE
+135,17,2025-10-01, Daño en transporte ,$ 24.327,TC
+136,2083,2025-08-21,Error en envío,$ 2.245.173,PSE
+137,226,2025-03-28, Cambio de opinión ,1182561,efectivo
+138,218,2025-02-22, Error en envío ,786870,efectivo
+139,1140,2025-05-19,DAÑO TRANSPORTE,,transferencia
+140,1003,2025-10-17, Daño en transporte ,$ 527.057,transferencia
+141,72,2025-04-24,no era lo esperado,$ 651.283,efectivo
+142,328,2025-02-11,,532739,transferencia
+143,433,2025-05-21,Daño en transporte,$ 1.974.744,transferencia
+144,6,2025-04-13,,1318733,TC
+145,989,2025-10-20,no era lo esperado,$ 1.477.512,PSE
+146,2053,2025-04-27,Producto defectuoso,$ 2.190.404,TC
+147,1013,2025-04-10,Producto defectuoso,2137837,transferencia
+148,372,2025-05-25,Daño en transporte,1139072,PSE
+149,319,2025-06-13, No era lo esperado ,764818,TC
+150,1126,2025-04-26,Producto defectuoso,$ 139.892,TC
+151,2169,2025-02-24,No era lo esperado,,TC
+152,71,2025-07-11,daño transporte,2190882,efectivo
+153,689,2025-03-08,DEFECTUOSO,2304403,PSE
+154,396,2025-11-07,DAÑO TRANSPORTE,$ 1.021.883,efectivo
+155,948,2025-01-27,,$ 617.061,TC
+156,480,2025-09-29, Cambio de opinión ,1299648,transferencia
+157,640,2025-04-12,no era lo esperado,1168981,transferencia
+158,902,2025-12-03,Cambio de opinión,1395853,transferencia
+159,946,2025-01-15,CAMBIO OPINION,1815077,TC
+160,645,2025-04-29,No era lo esperado,$ 1.096.928,PSE
+161,2128,2025-01-26,cambio opinion,,transferencia
+162,866,2025-09-30,error envio,2130254,PSE
+163,2283,2025-04-17,Daño en transporte,$ 2.160.744,efectivo
+164,715,2025-10-18,cambio opinion,824438,TC
+165,843,2025-08-07,No era lo esperado,2239487,efectivo
+166,458,2025-06-09,cambio opinion,$ 2.361.554,PSE
+167,1199,2025-12-29,Daño en transporte,$ 1.385.586,efectivo
+168,763,2025-09-25,cambio opinion,235389,TC
+169,386,2025-10-13,DEFECTUOSO,$ 1.656.793,PSE
+170,2223,2025-09-26,Cambio de opinión,$ 2.205.187,efectivo
+171,345,2025-04-08,Producto defectuoso,$ 1.791.299,PSE
+172,1035,2025-03-22,Cambio de opinión,,PSE
+173,2109,2025-02-18, Daño en transporte ,2291709,transferencia
+174,981,2025-08-15,NO ERA LO ESPERADO,$ 1.479.677,PSE
+175,75,2025-04-09, Error en envío ,,TC
+176,211,2025-04-23,NO ERA LO ESPERADO,$ 1.801.450,TC
+177,138,2025-12-21,ERROR ENVIO,$ 305.103,efectivo
+178,123,2025-05-27,Cambio de opinión,$ 498.603,efectivo
+179,1013,2025-03-02,ERROR ENVIO,922044,PSE
+180,102,2025-11-20,,395940,efectivo
+181,486,2025-03-25,Producto defectuoso,81879,transferencia
+182,611,2025-12-16,Daño en transporte,2451927,transferencia
+183,565,2025-03-12, Daño en transporte ,1536075,PSE
+184,870,2025-02-21,No era lo esperado,484443,PSE
+185,263,2025-01-29,DAÑO TRANSPORTE,2007993,efectivo
+186,869,2025-11-06,cambio opinion,$ 1.986.752,TC
+187,1097,2025-03-27,Daño en transporte,$ 1.486.780,efectivo
+188,1168,2025-12-31,Error en envío,$ 1.978.757,PSE
+189,928,2025-11-18,DEFECTUOSO,255059,PSE
+190,2259,2025-12-23,no era lo esperado,$ 2.046.102,TC
+191,127,2025-12-02,no era lo esperado,1125779,efectivo
+192,901,2025-02-24,Producto defectuoso,2096433,transferencia
+193,488,2025-06-17,CAMBIO OPINION,$ 1.405.838,efectivo
+194,57,2025-07-24, Producto defectuoso ,243783,transferencia
+195,838,2025-03-19,Error en envío,2034621,PSE
+196,73,2025-07-23,producto defectuoso,$ 1.744.543,PSE
+197,2018,2025-06-28,Error en envío,502194,transferencia
+198,594,2025-07-14,Cambio de opinión,$ 1.926.540,transferencia
+199,74,2025-02-01,No era lo esperado,2281014,TC
+200,2233,2025-05-08, Cambio de opinión ,620936,TC
+201,286,2025-10-09,CAMBIO OPINION,$ 1.438.231,transferencia
+202,751,2025-09-11,Cambio de opinión,$ 562.439,transferencia
+203,671,2025-02-09,DAÑO TRANSPORTE,$ 1.713.641,TC
+204,600,2025-10-26, Daño en transporte ,591782,transferencia
+205,626,2025-01-16,Daño en transporte,$ 646.867,transferencia
+206,103,2025-07-24,No era lo esperado,$ 2.036.288,PSE
+207,2048,2025-08-06,DAÑO TRANSPORTE,$ 1.313.968,PSE
+208,184,2025-04-27, Cambio de opinión ,$ 1.663.318,TC
+209,777,2025-10-04,CAMBIO OPINION,$ 27.760,efectivo
+210,649,2025-07-13,Producto defectuoso,$ 1.953.821,TC
+211,296,2025-12-11, Cambio de opinión ,1320439,transferencia
+212,986,2025-01-17,error envio,424643,TC
+213,482,2025-10-04, Daño en transporte ,$ 427.515,transferencia
+214,565,2025-05-14,Cambio de opinión,1493355,efectivo
+215,554,2025-03-29,error envio,$ 984.264,TC
+216,869,2025-02-03, Cambio de opinión ,$ 2.092.338,transferencia
+217,663,2025-07-15,Daño en transporte,2327283,efectivo
+218,366,2025-08-04,,1392555,efectivo
+219,406,2025-05-16,daño transporte,$ 2.170.702,efectivo
+220,127,2025-07-11,error envio,2452090,transferencia
+221,336,2025-03-11,Error en envío,$ 1.032.072,TC
+222,850,2025-05-10,Daño en transporte,1804487,TC
+223,349,2025-12-11,daño transporte,406441,efectivo
+224,177,2025-07-14, Error en envío ,$ 2.290.150,transferencia
+225,813,2025-04-27,Cambio de opinión,$ 955.431,efectivo
+226,2059,2025-03-25, Producto defectuoso ,1412731,TC
+227,618,2025-06-23,No era lo esperado,$ 2.035.781,TC
+228,113,2025-08-16,Cambio de opinión,685005,efectivo
+229,2156,2025-03-31,error envio,2373634,transferencia
+230,717,2025-11-05,producto defectuoso,$ 2.006.139,efectivo
+231,1038,2025-06-10,error envio,$ 2.368.903,TC
+232,1117,2025-06-22,No era lo esperado,1187669,efectivo
+233,1014,2025-11-30,Cambio de opinión,$ 1.814.407,efectivo
+234,788,2025-06-09,no era lo esperado,620351,PSE
+235,229,2025-11-09,Cambio de opinión,594552,efectivo
+236,2285,2025-11-22,DAÑO TRANSPORTE,$ 2.474.980,efectivo
+237,337,2025-02-10,Daño en transporte,1352513,PSE
+238,1003,2025-04-14,Daño en transporte,$ 2.400.921,TC
+239,1010,2025-02-15,Error en envío,690045,efectivo
+240,280,2025-08-09,cambio opinion,614267,efectivo
+241,848,2025-12-10,daño transporte,2458795,PSE
+242,705,2025-12-12,producto defectuoso,2157020,transferencia
+243,2076,2025-05-25,Error en envío,$ 1.035.413,efectivo
+244,921,2025-06-23,Producto defectuoso,,PSE
+245,2085,2025-04-06,No era lo esperado,1798602,PSE
+246,982,2025-01-31, No era lo esperado ,1030683,transferencia
+247,1054,2025-04-22,error envio,1948381,transferencia
+248,2195,2025-10-03,cambio opinion,1073294,TC
+249,2119,2025-08-15, Cambio de opinión ,$ 1.001.637,transferencia
+250,1171,2025-09-14,Error en envío,2045943,transferencia
+251,370,2025-03-29, Error en envío ,681743,transferencia
+252,773,2025-08-24,Error en envío,1878608,TC
+253,24,2025-10-28,,2268668,transferencia
+254,951,2025-02-21,,1459728,PSE
+255,2179,2025-04-07,Error en envío,352022,transferencia
+256,2288,2025-06-20,No era lo esperado,2405394,transferencia
+257,947,2025-12-04, No era lo esperado ,1000311,PSE
+258,515,2025-08-18,ERROR ENVIO,2304310,PSE
+259,335,2025-04-05,Producto defectuoso,2207913,PSE
+260,160,2025-03-11,daño transporte,$ 478.689,TC
+261,290,2025-09-13,no era lo esperado,1416990,efectivo
+262,300,2025-12-30,Error en envío,2086112,TC
+263,1182,2025-12-09, No era lo esperado ,2335164,transferencia
+264,177,2025-02-04,Daño en transporte,$ 2.240.464,TC
+265,346,2025-11-21, Producto defectuoso ,$ 1.962.230,transferencia
+266,422,2025-01-18,Daño en transporte,1475854,TC
+267,100,2025-10-27,Cambio de opinión,608922,transferencia
+268,183,2025-02-14,No era lo esperado,1700667,transferencia
+269,137,2025-08-11,Cambio de opinión,$ 219.630,TC
+270,922,2025-03-26, Producto defectuoso ,$ 461.449,transferencia
+271,1083,2025-09-27, Cambio de opinión ,$ 702.460,efectivo
+272,292,2025-12-10,Producto defectuoso,434201,PSE
+273,90,2025-06-06,Daño en transporte,$ 433.407,efectivo
+274,2105,2025-01-07,NO ERA LO ESPERADO,1845487,transferencia
+275,117,2025-02-27,No era lo esperado,$ 1.831.418,efectivo
+276,515,2025-09-12,producto defectuoso,$ 1.949.083,PSE
+277,1123,2025-11-25,error envio,2088204,TC
+278,1048,2025-05-03,No era lo esperado,,efectivo
+279,967,2025-10-23,error envio,728130,PSE
+280,595,2025-10-22, Cambio de opinión ,$ 681.961,efectivo
+281,883,2025-03-03,Daño en transporte,1442740,TC
+282,169,2025-03-12,Producto defectuoso,2449772,PSE
+283,284,2025-02-01, No era lo esperado ,93290,efectivo
+284,527,2025-09-15, No era lo esperado ,2251864,transferencia
+285,578,2025-06-28,Daño en transporte,826566,efectivo
+286,1064,2025-08-04, Daño en transporte ,392830,efectivo
+287,369,2025-12-15,NO ERA LO ESPERADO,930555,efectivo
+288,755,2025-11-04, Producto defectuoso ,2163234,TC
+289,65,2025-11-16,NO ERA LO ESPERADO,$ 860.681,transferencia
+290,202,2025-07-13,error envio,,PSE
+291,334,2025-07-25,Cambio de opinión,$ 1.884.716,transferencia
+292,1063,2025-08-15,Producto defectuoso,1584189,TC
+293,703,2025-07-14,NO ERA LO ESPERADO,$ 1.894.749,TC
+294,2186,2025-02-20,,985627,transferencia
+295,983,2025-06-14, Daño en transporte ,$ 802.120,efectivo
+296,583,2025-04-02, Cambio de opinión ,1418193,efectivo
+297,910,2025-05-10,Daño en transporte,$ 1.863.150,TC
+298,547,2025-07-31,No era lo esperado,1426464,transferencia
+299,494,2025-10-14, Error en envío ,$ 1.142.319,TC
+300,17,2025-08-19,Producto defectuoso,$ 651.796,efectivo
+301,59,2025-01-30,CAMBIO OPINION,$ 738.404,transferencia
+302,2158,2025-10-11,Error en envío,,efectivo
+303,1086,2025-03-31,Producto defectuoso,$ 932.113,efectivo
+304,803,2025-02-05, Producto defectuoso ,$ 386.551,efectivo
+305,476,2025-11-02,No era lo esperado,1796749,TC
+306,455,2025-10-25, No era lo esperado ,2209235,transferencia
+307,580,2025-04-02,,1901856,efectivo
+308,1168,2025-04-28,no era lo esperado,$ 631.809,TC
+309,960,2025-07-27,Error en envío,1382410,transferencia
+310,1000,2025-04-01,Cambio de opinión,$ 167.692,transferencia
+311,295,2025-08-08,error envio,412705,PSE
+312,827,2025-07-31,error envio,927631,TC
+313,218,2025-10-06,producto defectuoso,$ 1.446.825,efectivo
+314,522,2025-05-17,Daño en transporte,$ 156.432,efectivo
+315,1091,2025-01-17,No era lo esperado,2015383,TC
+316,23,2025-01-14,Daño en transporte,$ 399.466,efectivo
+317,404,2025-04-02,Cambio de opinión,1580382,efectivo
+318,52,2025-03-24,,78892,transferencia
+319,992,2025-01-09,Cambio de opinión,1332399,transferencia
+320,77,2025-02-18,Producto defectuoso,$ 2.486.009,efectivo
+190,2259,2025-12-23,no era lo esperado,$ 2.046.102,TC
+249,2119,2025-08-15, Cambio de opinión ,$ 1.001.637,transferencia
+11,448,2025-01-28,Error en envío,906077,efectivo
+292,1063,2025-08-15,Producto defectuoso,1584189,TC
+15,2114,2025-01-24,Daño en transporte,,TC
+304,803,2025-02-05, Producto defectuoso ,$ 386.551,efectivo
+229,2156,2025-03-31,error envio,2373634,transferencia
+41,2144,2025-11-03,,$ 999.388,efectivo
+314,522,2025-05-17,Daño en transporte,$ 156.432,efectivo
+133,3,2025-05-16,ERROR ENVIO,62158,PSE
+91,550,2025-11-13, Producto defectuoso ,1786830,TC
+72,206,2025-01-18, Cambio de opinión ,1633133,TC
+183,565,2025-03-12, Daño en transporte ,1536075,PSE
+320,77,2025-02-18,Producto defectuoso,$ 2.486.009,efectivo
+38,1191,2025-05-24, No era lo esperado ,355499,transferencia
+166,458,2025-06-09,cambio opinion,$ 2.361.554,PSE
+265,346,2025-11-21, Producto defectuoso ,$ 1.962.230,transferencia
+130,85,2025-12-18,,247761,TC
