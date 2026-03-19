@@ -25,10 +25,9 @@ Curso práctico basado en **aprendizaje basado en proyectos (ABP)**:
 ├── 1_fundamentos_python/
 ├── 2_numpy_pandas_limpieza_datos/
 ├── 3_visualizacion/
-├── 4_eda/
-├── 5_machine_learning/
-├── 6_streamlit/
-├── 7_proyectos/
+├── 4_machine_learning/
+├── 5_streamlit/
+├── 6_proyectos/
 │ ├── proyecto_1/
 │ ├── proyecto_2/
 │ └── proyecto_final/
